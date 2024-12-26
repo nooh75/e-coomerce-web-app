@@ -67,3 +67,10 @@ style.css: Main CSS file for styling the application.
 style1.css:  CSS for  styles.
 
 styleee.css: Another CSS  for  styles.
+
+
+
+#-------------------------------------------------------------------------------------
+
+after deadline i have upload some screens from the gui that i forget to do that 
+
